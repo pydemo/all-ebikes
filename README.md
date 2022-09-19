@@ -1,6 +1,9 @@
 # all-ebikes
 List of all ebikes i could find online
 
+Bearebike
+EINS
+Chimera
 
 UBCO, https://ubco.com/
 Addmotor, https://www.addmotor.com/
