@@ -1,6 +1,10 @@
 # all-ebikes
 List of all ebikes i could find online
 
+
+Voodoo, https://lyriccycles.com/collections/electric-bikes/products/voodoo-reservation
+
+
 Bearebike
 EINS
 Chimera
