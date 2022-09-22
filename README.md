@@ -9,26 +9,45 @@ List of all ebikes i could find online
 
 
   Bearebike
+  
   EINS
+  
   Chimera
 
   UBCO, https://ubco.com/
+  
   Addmotor, https://www.addmotor.com/
+  
   Ancheer, https://www.ancheer.shop/
+  
   Amego, https://www.amegoev.com/
+  
   Aostirmotor, https://www.aostirmotor.com/
+  
   Ariel Rider
+  
   Aventon
+  
   Batch
+  
   Bee Cool Bikes
+  
   Benelli
+  
   Benno
+  
   BESV
+  
   BH Bikes
+  
   Big Cat
+  
   Biktrix
+  
   Bintelli
+  
   Biomega
+  
   Biria
   Blix
   BMEBIKES
