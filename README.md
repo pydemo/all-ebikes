@@ -1,5 +1,6 @@
 # all-ebikes
 List of all ebikes i could find online
+  https://www.roadbikerider.com/list-of-ebike-manufacturer-brands/
   fifield, https://www.fifieldebikes.com/
   quadrini, https://quadrini-usa.com/
 
