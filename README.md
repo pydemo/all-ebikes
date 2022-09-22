@@ -2,7 +2,9 @@
 List of all ebikes i could find online
 
 
-Voodoo, https://lyriccycles.com/collections/electric-bikes/products/voodoo-reservation
+  Buxus,https://www.buxusmotors.com/page.html
+
+  Voodoo, https://lyriccycles.com/collections/electric-bikes/products/voodoo-reservation
 
 
 Bearebike
