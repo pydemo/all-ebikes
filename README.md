@@ -1,5 +1,7 @@
 # all-ebikes
 List of all ebikes i could find online
+  fifield, https://www.fifieldebikes.com/
+  quadrini, https://quadrini-usa.com/
 
   Dost long range, https://dostbikes.com/products/bikes?gclid=Cj0KCQjwj7CZBhDHARIsAPPWv3cCWR8c-669LXfeQSMM0tLRDhmSrk46tliTQ2WreObgTxx0aFBzfMkaAvvmEALw_wcB
 
